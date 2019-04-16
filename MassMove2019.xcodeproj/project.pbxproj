@@ -12,8 +12,8 @@
 		A1AB50532265676F00AA3B6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1AB50512265676F00AA3B6A /* Main.storyboard */; };
 		A1AB50552265677600AA3B6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1AB50542265677600AA3B6A /* Assets.xcassets */; };
 		A1AB50582265677600AA3B6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1AB50562265677600AA3B6A /* LaunchScreen.storyboard */; };
-		A1AB50632265677600AA3B6A /* MassMoveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1AB50622265677600AA3B6A /* MassMoveTests.swift */; };
-		A1AB506E2265677600AA3B6A /* MassMoveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1AB506D2265677600AA3B6A /* MassMoveUITests.swift */; };
+		A1AB50632265677600AA3B6A /* MassMove2019Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1AB50622265677600AA3B6A /* MassMove2019Tests.swift */; };
+		A1AB506E2265677600AA3B6A /* MassMove2019UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1AB506D2265677600AA3B6A /* MassMove2019UITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,18 +34,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A1AB504A2265676F00AA3B6A /* MassMove.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MassMove.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1AB504A2265676F00AA3B6A /* MassMove2019.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MassMove2019.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1AB504D2265676F00AA3B6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A1AB504F2265676F00AA3B6A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		A1AB50522265676F00AA3B6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A1AB50542265677600AA3B6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1AB50572265677600AA3B6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1AB50592265677600AA3B6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A1AB505E2265677600AA3B6A /* MassMoveTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MassMoveTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A1AB50622265677600AA3B6A /* MassMoveTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MassMoveTests.swift; sourceTree = "<group>"; };
+		A1AB505E2265677600AA3B6A /* MassMove2019Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MassMove2019Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1AB50622265677600AA3B6A /* MassMove2019Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MassMove2019Tests.swift; sourceTree = "<group>"; };
 		A1AB50642265677600AA3B6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A1AB50692265677600AA3B6A /* MassMoveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MassMoveUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A1AB506D2265677600AA3B6A /* MassMoveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MassMoveUITests.swift; sourceTree = "<group>"; };
+		A1AB50692265677600AA3B6A /* MassMove2019UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MassMove2019UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1AB506D2265677600AA3B6A /* MassMove2019UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MassMove2019UITests.swift; sourceTree = "<group>"; };
 		A1AB506F2265677600AA3B6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -77,9 +77,9 @@
 		A1AB50412265676F00AA3B6A = {
 			isa = PBXGroup;
 			children = (
-				A1AB504C2265676F00AA3B6A /* MassMove */,
-				A1AB50612265677600AA3B6A /* MassMoveTests */,
-				A1AB506C2265677600AA3B6A /* MassMoveUITests */,
+				A1AB504C2265676F00AA3B6A /* MassMove2019 */,
+				A1AB50612265677600AA3B6A /* MassMove2019Tests */,
+				A1AB506C2265677600AA3B6A /* MassMove2019UITests */,
 				A1AB504B2265676F00AA3B6A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -87,14 +87,14 @@
 		A1AB504B2265676F00AA3B6A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A1AB504A2265676F00AA3B6A /* MassMove.app */,
-				A1AB505E2265677600AA3B6A /* MassMoveTests.xctest */,
-				A1AB50692265677600AA3B6A /* MassMoveUITests.xctest */,
+				A1AB504A2265676F00AA3B6A /* MassMove2019.app */,
+				A1AB505E2265677600AA3B6A /* MassMove2019Tests.xctest */,
+				A1AB50692265677600AA3B6A /* MassMove2019UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A1AB504C2265676F00AA3B6A /* MassMove */ = {
+		A1AB504C2265676F00AA3B6A /* MassMove2019 */ = {
 			isa = PBXGroup;
 			children = (
 				A1AB504D2265676F00AA3B6A /* AppDelegate.swift */,
@@ -104,33 +104,33 @@
 				A1AB50562265677600AA3B6A /* LaunchScreen.storyboard */,
 				A1AB50592265677600AA3B6A /* Info.plist */,
 			);
-			path = MassMove;
+			path = MassMove2019;
 			sourceTree = "<group>";
 		};
-		A1AB50612265677600AA3B6A /* MassMoveTests */ = {
+		A1AB50612265677600AA3B6A /* MassMove2019Tests */ = {
 			isa = PBXGroup;
 			children = (
-				A1AB50622265677600AA3B6A /* MassMoveTests.swift */,
+				A1AB50622265677600AA3B6A /* MassMove2019Tests.swift */,
 				A1AB50642265677600AA3B6A /* Info.plist */,
 			);
-			path = MassMoveTests;
+			path = MassMove2019Tests;
 			sourceTree = "<group>";
 		};
-		A1AB506C2265677600AA3B6A /* MassMoveUITests */ = {
+		A1AB506C2265677600AA3B6A /* MassMove2019UITests */ = {
 			isa = PBXGroup;
 			children = (
-				A1AB506D2265677600AA3B6A /* MassMoveUITests.swift */,
+				A1AB506D2265677600AA3B6A /* MassMove2019UITests.swift */,
 				A1AB506F2265677600AA3B6A /* Info.plist */,
 			);
-			path = MassMoveUITests;
+			path = MassMove2019UITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A1AB50492265676F00AA3B6A /* MassMove */ = {
+		A1AB50492265676F00AA3B6A /* MassMove2019 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A1AB50722265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMove" */;
+			buildConfigurationList = A1AB50722265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMove2019" */;
 			buildPhases = (
 				A1AB50462265676F00AA3B6A /* Sources */,
 				A1AB50472265676F00AA3B6A /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = MassMove;
+			name = MassMove2019;
 			productName = MassMove;
-			productReference = A1AB504A2265676F00AA3B6A /* MassMove.app */;
+			productReference = A1AB504A2265676F00AA3B6A /* MassMove2019.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A1AB505D2265677600AA3B6A /* MassMoveTests */ = {
+		A1AB505D2265677600AA3B6A /* MassMove2019Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A1AB50752265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMoveTests" */;
+			buildConfigurationList = A1AB50752265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMove2019Tests" */;
 			buildPhases = (
 				A1AB505A2265677600AA3B6A /* Sources */,
 				A1AB505B2265677600AA3B6A /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				A1AB50602265677600AA3B6A /* PBXTargetDependency */,
 			);
-			name = MassMoveTests;
+			name = MassMove2019Tests;
 			productName = MassMoveTests;
-			productReference = A1AB505E2265677600AA3B6A /* MassMoveTests.xctest */;
+			productReference = A1AB505E2265677600AA3B6A /* MassMove2019Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		A1AB50682265677600AA3B6A /* MassMoveUITests */ = {
+		A1AB50682265677600AA3B6A /* MassMove2019UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A1AB50782265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMoveUITests" */;
+			buildConfigurationList = A1AB50782265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMove2019UITests" */;
 			buildPhases = (
 				A1AB50652265677600AA3B6A /* Sources */,
 				A1AB50662265677600AA3B6A /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				A1AB506B2265677600AA3B6A /* PBXTargetDependency */,
 			);
-			name = MassMoveUITests;
+			name = MassMove2019UITests;
 			productName = MassMoveUITests;
-			productReference = A1AB50692265677600AA3B6A /* MassMoveUITests.xctest */;
+			productReference = A1AB50692265677600AA3B6A /* MassMove2019UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A1AB50452265676F00AA3B6A /* Build configuration list for PBXProject "MassMove" */;
+			buildConfigurationList = A1AB50452265676F00AA3B6A /* Build configuration list for PBXProject "MassMove2019" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -217,9 +217,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A1AB50492265676F00AA3B6A /* MassMove */,
-				A1AB505D2265677600AA3B6A /* MassMoveTests */,
-				A1AB50682265677600AA3B6A /* MassMoveUITests */,
+				A1AB50492265676F00AA3B6A /* MassMove2019 */,
+				A1AB505D2265677600AA3B6A /* MassMove2019Tests */,
+				A1AB50682265677600AA3B6A /* MassMove2019UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1AB50632265677600AA3B6A /* MassMoveTests.swift in Sources */,
+				A1AB50632265677600AA3B6A /* MassMove2019Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +273,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1AB506E2265677600AA3B6A /* MassMoveUITests.swift in Sources */,
+				A1AB506E2265677600AA3B6A /* MassMove2019UITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,12 +282,12 @@
 /* Begin PBXTargetDependency section */
 		A1AB50602265677600AA3B6A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A1AB50492265676F00AA3B6A /* MassMove */;
+			target = A1AB50492265676F00AA3B6A /* MassMove2019 */;
 			targetProxy = A1AB505F2265677600AA3B6A /* PBXContainerItemProxy */;
 		};
 		A1AB506B2265677600AA3B6A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A1AB50492265676F00AA3B6A /* MassMove */;
+			target = A1AB50492265676F00AA3B6A /* MassMove2019 */;
 			targetProxy = A1AB506A2265677600AA3B6A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -480,7 +480,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MassMove.app/MassMove";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MassMove2019.app/MassMove2019";
 			};
 			name = Debug;
 		};
@@ -500,7 +500,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MassMove.app/MassMove";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MassMove2019.app/MassMove2019";
 			};
 			name = Release;
 		};
@@ -545,7 +545,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A1AB50452265676F00AA3B6A /* Build configuration list for PBXProject "MassMove" */ = {
+		A1AB50452265676F00AA3B6A /* Build configuration list for PBXProject "MassMove2019" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A1AB50702265677600AA3B6A /* Debug */,
@@ -554,7 +554,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A1AB50722265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMove" */ = {
+		A1AB50722265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMove2019" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A1AB50732265677600AA3B6A /* Debug */,
@@ -563,7 +563,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A1AB50752265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMoveTests" */ = {
+		A1AB50752265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMove2019Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A1AB50762265677600AA3B6A /* Debug */,
@@ -572,7 +572,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A1AB50782265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMoveUITests" */ = {
+		A1AB50782265677600AA3B6A /* Build configuration list for PBXNativeTarget "MassMove2019UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A1AB50792265677600AA3B6A /* Debug */,
